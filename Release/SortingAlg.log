@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\benja\Desktop\projects\SortingAlg\sound.h(16,19): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\benja\Desktop\projects\SortingAlg\sound.h(17,22): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\benja\Desktop\projects\SortingAlg\sound.h(23,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\benja\Desktop\projects\SortingAlg\sound.h(26,19): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\benja\Desktop\projects\SortingAlg\sound.h(35,19): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\benja\Desktop\projects\SortingAlg\main.cpp(17,18): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\benja\Desktop\projects\SortingAlg\main.cpp(112,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\benja\Desktop\projects\SortingAlg\main.cpp(115,25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 242 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SortingAlg.vcxproj -> C:\Users\benja\Desktop\projects\SortingAlg\Release\SortingAlg.exe

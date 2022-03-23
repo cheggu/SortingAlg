@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (balls.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\benja\Desktop\projects\balls\sound.h(16,19): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\benja\Desktop\projects\balls\sound.h(17,22): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\benja\Desktop\projects\balls\sound.h(23,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\benja\Desktop\projects\balls\sound.h(26,19): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\benja\Desktop\projects\balls\sound.h(35,19): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\benja\Desktop\projects\balls\main.cpp(15,18): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\benja\Desktop\projects\balls\main.cpp(122,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\benja\Desktop\projects\balls\main.cpp(123,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  balls.vcxproj -> C:\Users\benja\Desktop\projects\balls\Debug\SortingAlg.exe
