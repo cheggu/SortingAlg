@@ -11,5 +11,4 @@ I've only implemented bubble-sort at the moment.
 
 This was accomplished using C++ and <a href=https://www.sfml-dev.org/>SFML</a>
 
-Expect poor coding practices, this was just meant for personal use.
-
+Expect poor coding practices. Don't hate pls.
